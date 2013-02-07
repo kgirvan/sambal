@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/student/!svn/ver/43088/test/functional-automation/sambal/trunk
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/student/!svn/ver/43015/test/functional-automation/sambal/trunk/Gemfile.lock
+END
+linux_headless_setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/linux_headless_setup.sh
+END
+upgrade_firefox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/student/!svn/ver/41837/test/functional-automation/sambal/trunk/upgrade_firefox.sh
+END
+sambal-kuali.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/sambal-kuali.gemspec
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/student/!svn/ver/37628/test/functional-automation/sambal/trunk/.gitignore
+END
+cleanup_test_processes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/student/!svn/ver/42653/test/functional-automation/sambal/trunk/cleanup_test_processes.sh
+END
+cucumber.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/student/!svn/ver/43056/test/functional-automation/sambal/trunk/cucumber.yml
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/student/!svn/ver/43015/test/functional-automation/sambal/trunk/Gemfile
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/student/!svn/ver/39862/test/functional-automation/sambal/trunk/README.md
+END
