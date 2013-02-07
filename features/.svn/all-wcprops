@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/student/!svn/ver/43057/test/functional-automation/sambal/trunk/features
+END
+remove_seatpools.feature
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/remove_seatpools.feature
+END
+edit_ao_delivery_logistics.feature
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/edit_ao_delivery_logistics.feature
+END
+manage_soc.feature
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/student/!svn/ver/43056/test/functional-automation/sambal/trunk/features/manage_soc.feature
+END
+create_registration_groups.feature
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/student/!svn/ver/43052/test/functional-automation/sambal/trunk/features/create_registration_groups.feature
+END
+create_seatpools.feature
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/create_seatpools.feature
+END
+approve_course_offerings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/approve_course_offerings.feature
+END
+debug_feature.feature
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/debug_feature.feature
+END
+search_populations.feature
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/search_populations.feature
+END
+delivery_logistics.feature
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/delivery_logistics.feature
+END
+add_activity_offerings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/add_activity_offerings.feature
+END
+edit_course_offerings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/student/!svn/ver/43015/test/functional-automation/sambal/trunk/features/edit_course_offerings.feature
+END
+academic_calendar_cred.feature
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/academic_calendar_cred.feature
+END
+simple_rollover.feature
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/simple_rollover.feature
+END
+rollover_terms.feature
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/student/!svn/ver/43056/test/functional-automation/sambal/trunk/features/rollover_terms.feature
+END
+populate_rdls_in_copy_co.feature
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/populate_rdls_in_copy_co.feature
+END
+krms_edit_agenda.feature
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/student/!svn/ver/43044/test/functional-automation/sambal/trunk/features/krms_edit_agenda.feature
+END
+delete_activity_offerings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/delete_activity_offerings.feature
+END
+populate_rdls_in_copy_rollover.feature
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/populate_rdls_in_copy_rollover.feature
+END
+edit_populations.feature
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/edit_populations.feature
+END
+delete_co.feature
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/delete_co.feature
+END
+create_course_offerings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/student/!svn/ver/43014/test/functional-automation/sambal/trunk/features/create_course_offerings.feature
+END
+edit_activity_offering_attributes.feature
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/edit_activity_offering_attributes.feature
+END
+performance_metrics.feature
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/performance_metrics.feature
+END
+manage_registration_windows.feature
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/manage_registration_windows.feature
+END
+create_populations.feature
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/create_populations.feature
+END
+krms_custom_components.feature
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/student/!svn/ver/43046/test/functional-automation/sambal/trunk/features/krms_custom_components.feature
+END
+edit_seatpools.feature
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/edit_seatpools.feature
+END
+holiday_calendar_cred.feature
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/holiday_calendar_cred.feature
+END
+authorize_student.feature
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/student/!svn/ver/43012/test/functional-automation/sambal/trunk/features/authorize_student.feature
+END
+display_schedule_of_classes.feature
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/student/!svn/ver/43013/test/functional-automation/sambal/trunk/features/display_schedule_of_classes.feature
+END
+setup_environment.feature
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/student/!svn/ver/43056/test/functional-automation/sambal/trunk/features/setup_environment.feature
+END

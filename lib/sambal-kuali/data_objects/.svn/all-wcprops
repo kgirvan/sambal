@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/student/!svn/ver/43088/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects
+END
+schedule_of_classes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/student/!svn/ver/42766/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/schedule_of_classes.rb
+END
+academic_calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/student/!svn/ver/42501/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/academic_calendar.rb
+END
+course_offering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/student/!svn/ver/43052/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/course_offering.rb
+END
+registration_window.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/student/!svn/ver/42766/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/registration_window.rb
+END
+holiday_calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/student/!svn/ver/42501/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/holiday_calendar.rb
+END
+manage_soc_object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/student/!svn/ver/43088/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/manage_soc_object.rb
+END
+krms_custom_components_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/student/!svn/ver/42997/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/krms_custom_components_data.rb
+END
+rollover.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/43056/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/rollover.rb
+END
+krms_edit_agenda_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/student/!svn/ver/43044/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/krms_edit_agenda_data.rb
+END
+population.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/student/!svn/ver/42501/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/population.rb
+END
+activity_offering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/student/!svn/ver/42924/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/activity_offering.rb
+END
+activity_offering_cluster.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/student/!svn/ver/42766/test/functional-automation/sambal/trunk/lib/sambal-kuali/data_objects/activity_offering_cluster.rb
+END

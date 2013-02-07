@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/student/!svn/ver/43088/test/functional-automation/sambal/trunk/lib/sambal-kuali
+END
+workflows.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/student/!svn/ver/42997/test/functional-automation/sambal/trunk/lib/sambal-kuali/workflows.rb
+END
+base_page_classes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/student/!svn/ver/41653/test/functional-automation/sambal/trunk/lib/sambal-kuali/base_page_classes.rb
+END
+kuali_base_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/student/!svn/ver/42997/test/functional-automation/sambal/trunk/lib/sambal-kuali/kuali_base_page.rb
+END

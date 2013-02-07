@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/student/!svn/ver/43056/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages
+END
+create_population.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/create_population.rb
+END
+activity_offering_maintenance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/student/!svn/ver/42119/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/activity_offering_maintenance.rb
+END
+manage_course_details.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/student/!svn/ver/42088/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_course_details.rb
+END
+active_population_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/active_population_lookup.rb
+END
+hold_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/hold_lookup.rb
+END
+enrollment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/student/!svn/ver/41543/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/enrollment.rb
+END
+manage_registration_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/student/!svn/ver/43052/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_registration_groups.rb
+END
+course_offering_edit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/student/!svn/ver/42846/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/course_offering_edit.rb
+END
+manage_process.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_process.rb
+END
+header.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/header.rb
+END
+manage_registration_windows.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/student/!svn/ver/42336/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_registration_windows.rb
+END
+organization_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/student/!svn/ver/41657/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/organization_lookup.rb
+END
+calendar_search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/calendar_search.rb
+END
+personnel_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/personnel_lookup.rb
+END
+term_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/term_lookup.rb
+END
+activity_offering_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/activity_offering_lookup.rb
+END
+create_acad_calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/create_acad_calendar.rb
+END
+krms_custom_components_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/student/!svn/ver/42997/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/krms_custom_components_page.rb
+END
+main_menu.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/student/!svn/ver/42997/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/main_menu.rb
+END
+view_population_diag.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/student/!svn/ver/42046/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/view_population_diag.rb
+END
+rollover_details.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/student/!svn/ver/43056/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/rollover_details.rb
+END
+status_view_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/student/!svn/ver/41792/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/status_view_page.rb
+END
+activity_offering_confirm_delete.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/student/!svn/ver/43052/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/activity_offering_confirm_delete.rb
+END
+manage_course_offerings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/student/!svn/ver/43052/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_course_offerings.rb
+END
+format_offering_info_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/format_offering_info_lookup.rb
+END
+copy_holiday_calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/copy_holiday_calendar.rb
+END
+term_information.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/term_information.rb
+END
+appointment_window_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/appointment_window_lookup.rb
+END
+display_schedule_of_classes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/student/!svn/ver/41706/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/display_schedule_of_classes.rb
+END
+manage_course_offering_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/student/!svn/ver/43052/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_course_offering_list.rb
+END
+rollover_confirm_release_to_depts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/rollover_confirm_release_to_depts.rb
+END
+course_offering_info_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/course_offering_info_lookup.rb
+END
+edit_academic_calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/student/!svn/ver/42117/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/edit_academic_calendar.rb
+END
+view_population.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/view_population.rb
+END
+manage_populations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_populations.rb
+END
+enrollment_fee_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/enrollment_fee_lookup.rb
+END
+holiday_calendar_information.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/holiday_calendar_information.rb
+END
+manage_soc_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/41884/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/manage_soc_page.rb
+END
+delete_term.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/delete_term.rb
+END
+activity_offering_inquiry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/activity_offering_inquiry.rb
+END
+workflow_preferences.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/workflow_preferences.rb
+END
+department_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/student/!svn/ver/42276/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/department_lookup.rb
+END
+delete_course_offering_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/student/!svn/ver/41771/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/delete_course_offering_page.rb
+END
+add_hold.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/add_hold.rb
+END
+perform_rollover.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/student/!svn/ver/42400/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/perform_rollover.rb
+END
+edit_population.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/edit_population.rb
+END
+create_process.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/create_process.rb
+END
+create_course_offering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/student/!svn/ver/42958/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/create_course_offering.rb
+END
+document_search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/document_search.rb
+END
+view_registration_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/student/!svn/ver/41422/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/view_registration_groups.rb
+END
+login_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/login_page.rb
+END
+create_holiday_calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/create_holiday_calendar.rb
+END
+activity_offering_maintenance_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/student/!svn/ver/42924/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/activity_offering_maintenance_view.rb
+END
+delivery_logistics_edit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/student/!svn/ver/42179/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/delivery_logistics_edit.rb
+END
+unknown_term_course_offerings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/unknown_term_course_offerings.rb
+END
+academic_term_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/student/!svn/ver/42117/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/academic_term_page.rb
+END
+copy_course_offering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/student/!svn/ver/42811/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/copy_course_offering.rb
+END
+term_info_lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/student/!svn/ver/39861/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/term_info_lookup.rb
+END
+krms_edit_agenda_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/student/!svn/ver/43044/test/functional-automation/sambal/trunk/lib/sambal-kuali/pages/krms_edit_agenda_page.rb
+END
